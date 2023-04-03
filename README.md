@@ -14,6 +14,7 @@
 1. Bermingham, Adam, and Alan F. Smeaton. "On using Twitter to monitor political sentiment and predict election results." (2011).
 2. Razzaq, Muhammad Asif, Ali Mustafa Qamar, and Hafiz Syed Muhammad Bilal. "Prediction and analysis of Pakistan election 2013 based on sentiment analysis." 2014 IEEE/ACM International conference on advances in social networks analysis and mining (ASONAM 2014). IEEE, 2014.
 3. Anjaria, Malhar, and Ram Mohana Reddy Guddeti. "Influence factor based opinion mining of Twitter data using supervised learning." 2014 sixth international conference on communication systems and networks (COMSNETS). IEEE, 2014.
+4. O'Connor, Brendan, et al. "From tweets to polls: Linking text sentiment to public opinion time series." Proceedings of the international AAAI conference on web and social media. Vol. 4. No. 1. 2010.
 
 Before 2010
 1. Lerman, Kevin, et al. "Reading the markets: Forecasting public opinion of political candidates by news analysis." (2008).
